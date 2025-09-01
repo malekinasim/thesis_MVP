@@ -1,0 +1,7 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/src"
+  ],
+  "python.defaultInterpreterPath": "c:\\Users\\agahi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "python.terminal.executeInFileDir": false
+}
