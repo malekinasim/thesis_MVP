@@ -1,0 +1,15 @@
+[
+  {
+    "id": "mcq-001",
+    "task": "mcq",
+    "prompt": "The capital of France is ",
+    "options": [" Paris", " London", " Berlin"],
+    "gold": " Paris"
+  },
+  {
+    "id": "sg-001",
+    "task": "single",
+    "prompt": "2 + 2 = ",
+    "gold": " 4"
+  }
+]

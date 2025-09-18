@@ -1,0 +1,3431 @@
+[
+  {
+    "prompt": "The capital of South Korea is"
+  },
+  {
+    "prompt": "Question: What is the capital of South Korea? Answer:"
+  },
+  {
+    "prompt": "The capital of Russia is"
+  },
+  {
+    "prompt": "Question: What is the capital of Russia? Answer:"
+  },
+  {
+    "prompt": "The capital of Belgium is"
+  },
+  {
+    "prompt": "Question: What is the capital of Belgium? Answer:"
+  },
+  {
+    "prompt": "The capital of Argentina is"
+  },
+  {
+    "prompt": "Question: What is the capital of Argentina? Answer:"
+  },
+  {
+    "prompt": "The capital of Egypt is"
+  },
+  {
+    "prompt": "Question: What is the capital of Egypt? Answer:"
+  },
+  {
+    "prompt": "The capital of Germany is"
+  },
+  {
+    "prompt": "Question: What is the capital of Germany? Answer:"
+  },
+  {
+    "prompt": "The capital of China is"
+  },
+  {
+    "prompt": "Question: What is the capital of China? Answer:"
+  },
+  {
+    "prompt": "The capital of Sweden is"
+  },
+  {
+    "prompt": "Question: What is the capital of Sweden? Answer:"
+  },
+  {
+    "prompt": "The capital of Netherlands is"
+  },
+  {
+    "prompt": "Question: What is the capital of Netherlands? Answer:"
+  },
+  {
+    "prompt": "The capital of Austria is"
+  },
+  {
+    "prompt": "Question: What is the capital of Austria? Answer:"
+  },
+  {
+    "prompt": "The capital of Switzerland is"
+  },
+  {
+    "prompt": "Question: What is the capital of Switzerland? Answer:"
+  },
+  {
+    "prompt": "The capital of Australia is"
+  },
+  {
+    "prompt": "Question: What is the capital of Australia? Answer:"
+  },
+  {
+    "prompt": "The capital of Turkey is"
+  },
+  {
+    "prompt": "Question: What is the capital of Turkey? Answer:"
+  },
+  {
+    "prompt": "The capital of Poland is"
+  },
+  {
+    "prompt": "Question: What is the capital of Poland? Answer:"
+  },
+  {
+    "prompt": "The capital of Brazil is"
+  },
+  {
+    "prompt": "Question: What is the capital of Brazil? Answer:"
+  },
+  {
+    "prompt": "The capital of Japan is"
+  },
+  {
+    "prompt": "Question: What is the capital of Japan? Answer:"
+  },
+  {
+    "prompt": "The capital of Spain is"
+  },
+  {
+    "prompt": "Question: What is the capital of Spain? Answer:"
+  },
+  {
+    "prompt": "The capital of Greece is"
+  },
+  {
+    "prompt": "Question: What is the capital of Greece? Answer:"
+  },
+  {
+    "prompt": "The capital of Norway is"
+  },
+  {
+    "prompt": "Question: What is the capital of Norway? Answer:"
+  },
+  {
+    "prompt": "The capital of Finland is"
+  },
+  {
+    "prompt": "Question: What is the capital of Finland? Answer:"
+  },
+  {
+    "prompt": "The capital of Ireland is"
+  },
+  {
+    "prompt": "Question: What is the capital of Ireland? Answer:"
+  },
+  {
+    "prompt": "The capital of Italy is"
+  },
+  {
+    "prompt": "Question: What is the capital of Italy? Answer:"
+  },
+  {
+    "prompt": "The capital of Denmark is"
+  },
+  {
+    "prompt": "Question: What is the capital of Denmark? Answer:"
+  },
+  {
+    "prompt": "The capital of Iran is"
+  },
+  {
+    "prompt": "Question: What is the capital of Iran? Answer:"
+  },
+  {
+    "prompt": "The capital of Portugal is"
+  },
+  {
+    "prompt": "Question: What is the capital of Portugal? Answer:"
+  },
+  {
+    "prompt": "The capital of Mexico is"
+  },
+  {
+    "prompt": "Question: What is the capital of Mexico? Answer:"
+  },
+  {
+    "prompt": "The capital of France is"
+  },
+  {
+    "prompt": "Question: What is the capital of France? Answer:"
+  },
+  {
+    "prompt": "The capital of India is"
+  },
+  {
+    "prompt": "Question: What is the capital of India? Answer:"
+  },
+  {
+    "prompt": "The capital of Canada is"
+  },
+  {
+    "prompt": "Question: What is the capital of Canada? Answer:"
+  },
+  {
+    "prompt": "In 2019, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 2019, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 1996, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 1996, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2015, an important event in biology was"
+  },
+  {
+    "prompt": "By 2015, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 2006, an important event in economics was"
+  },
+  {
+    "prompt": "By 2006, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 2020, an important event in sports was"
+  },
+  {
+    "prompt": "By 2020, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2000, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2000, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2003, an important event in literature was"
+  },
+  {
+    "prompt": "By 2003, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 1993, an important event in literature was"
+  },
+  {
+    "prompt": "By 1993, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 2000, an important event in history was"
+  },
+  {
+    "prompt": "By 2000, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2011, an important event in art was"
+  },
+  {
+    "prompt": "By 2011, the main idea in art had become"
+  },
+  {
+    "prompt": "In 2006, an important event in physics was"
+  },
+  {
+    "prompt": "By 2006, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 2018, an important event in geography was"
+  },
+  {
+    "prompt": "By 2018, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2001, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 2001, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2020, an important event in geography was"
+  },
+  {
+    "prompt": "By 2020, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2016, an important event in sports was"
+  },
+  {
+    "prompt": "By 2016, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2022, an important event in computer science was"
+  },
+  {
+    "prompt": "By 2022, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 2012, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2012, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 2006, an important event in history was"
+  },
+  {
+    "prompt": "By 2006, the main idea in history had become"
+  },
+  {
+    "prompt": "In 1990, an important event in music was"
+  },
+  {
+    "prompt": "By 1990, the main idea in music had become"
+  },
+  {
+    "prompt": "In 1995, an important event in economics was"
+  },
+  {
+    "prompt": "By 1995, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 1992, an important event in art was"
+  },
+  {
+    "prompt": "By 1992, the main idea in art had become"
+  },
+  {
+    "prompt": "In 2007, an important event in history was"
+  },
+  {
+    "prompt": "By 2007, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2005, an important event in literature was"
+  },
+  {
+    "prompt": "By 2005, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 2020, an important event in economics was"
+  },
+  {
+    "prompt": "By 2020, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 2008, an important event in geography was"
+  },
+  {
+    "prompt": "By 2008, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2012, an important event in sports was"
+  },
+  {
+    "prompt": "By 2012, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 1998, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 1998, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2009, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2009, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 2016, an important event in geography was"
+  },
+  {
+    "prompt": "By 2016, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 1995, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 1995, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2002, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2002, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2011, an important event in history was"
+  },
+  {
+    "prompt": "By 2011, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2005, an important event in biology was"
+  },
+  {
+    "prompt": "By 2005, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 2018, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2018, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 2016, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 2016, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2015, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2015, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2016, an important event in literature was"
+  },
+  {
+    "prompt": "By 2016, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 1992, an important event in history was"
+  },
+  {
+    "prompt": "By 1992, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2018, an important event in physics was"
+  },
+  {
+    "prompt": "By 2018, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 2006, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2006, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2000, an important event in music was"
+  },
+  {
+    "prompt": "By 2000, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2023, an important event in music was"
+  },
+  {
+    "prompt": "By 2023, the main idea in music had become"
+  },
+  {
+    "prompt": "In 1990, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 1990, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2021, an important event in economics was"
+  },
+  {
+    "prompt": "By 2021, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 2009, an important event in music was"
+  },
+  {
+    "prompt": "By 2009, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2016, an important event in biology was"
+  },
+  {
+    "prompt": "By 2016, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 1995, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 1995, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 1998, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 1998, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2015, an important event in geography was"
+  },
+  {
+    "prompt": "By 2015, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2016, an important event in economics was"
+  },
+  {
+    "prompt": "By 2016, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 1990, an important event in biology was"
+  },
+  {
+    "prompt": "By 1990, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 1990, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 1990, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 1990, an important event in geography was"
+  },
+  {
+    "prompt": "By 1990, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2023, an important event in sports was"
+  },
+  {
+    "prompt": "By 2023, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 1996, an important event in biology was"
+  },
+  {
+    "prompt": "By 1996, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 1997, an important event in sports was"
+  },
+  {
+    "prompt": "By 1997, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2002, an important event in computer science was"
+  },
+  {
+    "prompt": "By 2002, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 2007, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2007, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2001, an important event in physics was"
+  },
+  {
+    "prompt": "By 2001, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 2020, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2020, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 2007, an important event in music was"
+  },
+  {
+    "prompt": "By 2007, the main idea in music had become"
+  },
+  {
+    "prompt": "In 1997, an important event in computer science was"
+  },
+  {
+    "prompt": "By 1997, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 1998, an important event in geography was"
+  },
+  {
+    "prompt": "By 1998, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2023, an important event in geography was"
+  },
+  {
+    "prompt": "By 2023, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2012, an important event in physics was"
+  },
+  {
+    "prompt": "By 2012, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 1999, an important event in computer science was"
+  },
+  {
+    "prompt": "By 1999, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 1991, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 1991, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 1992, an important event in biology was"
+  },
+  {
+    "prompt": "By 1992, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 2006, an important event in art was"
+  },
+  {
+    "prompt": "By 2006, the main idea in art had become"
+  },
+  {
+    "prompt": "In 2010, an important event in economics was"
+  },
+  {
+    "prompt": "By 2010, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 1992, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 1992, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2021, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2021, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2019, an important event in geography was"
+  },
+  {
+    "prompt": "By 2019, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2017, an important event in economics was"
+  },
+  {
+    "prompt": "By 2017, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 2024, an important event in history was"
+  },
+  {
+    "prompt": "By 2024, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2003, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2003, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 2008, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 2008, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 1998, an important event in history was"
+  },
+  {
+    "prompt": "By 1998, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2007, an important event in economics was"
+  },
+  {
+    "prompt": "By 2007, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 2011, an important event in literature was"
+  },
+  {
+    "prompt": "By 2011, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 2013, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2013, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 1992, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 1992, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 1999, an important event in sports was"
+  },
+  {
+    "prompt": "By 1999, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2008, an important event in economics was"
+  },
+  {
+    "prompt": "By 2008, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 2015, an important event in art was"
+  },
+  {
+    "prompt": "By 2015, the main idea in art had become"
+  },
+  {
+    "prompt": "In 1998, an important event in computer science was"
+  },
+  {
+    "prompt": "By 1998, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 1997, an important event in music was"
+  },
+  {
+    "prompt": "By 1997, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2005, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 2005, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2009, an important event in history was"
+  },
+  {
+    "prompt": "By 2009, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2023, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2023, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 1994, an important event in computer science was"
+  },
+  {
+    "prompt": "By 1994, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 2015, an important event in economics was"
+  },
+  {
+    "prompt": "By 2015, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 1996, an important event in physics was"
+  },
+  {
+    "prompt": "By 1996, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 2020, an important event in music was"
+  },
+  {
+    "prompt": "By 2020, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2011, an important event in physics was"
+  },
+  {
+    "prompt": "By 2011, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 2020, an important event in physics was"
+  },
+  {
+    "prompt": "By 2020, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 2021, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2021, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 1992, an important event in computer science was"
+  },
+  {
+    "prompt": "By 1992, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 2011, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2011, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 1999, an important event in history was"
+  },
+  {
+    "prompt": "By 1999, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2014, an important event in literature was"
+  },
+  {
+    "prompt": "By 2014, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 1995, an important event in physics was"
+  },
+  {
+    "prompt": "By 1995, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 1995, an important event in biology was"
+  },
+  {
+    "prompt": "By 1995, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 2004, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 2004, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2014, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 2014, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 1996, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 1996, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 2023, an important event in computer science was"
+  },
+  {
+    "prompt": "By 2023, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 2018, an important event in music was"
+  },
+  {
+    "prompt": "By 2018, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2004, an important event in computer science was"
+  },
+  {
+    "prompt": "By 2004, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 2000, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2000, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 2002, an important event in economics was"
+  },
+  {
+    "prompt": "By 2002, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 1997, an important event in physics was"
+  },
+  {
+    "prompt": "By 1997, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 1991, an important event in art was"
+  },
+  {
+    "prompt": "By 1991, the main idea in art had become"
+  },
+  {
+    "prompt": "In 2018, an important event in literature was"
+  },
+  {
+    "prompt": "By 2018, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 2002, an important event in physics was"
+  },
+  {
+    "prompt": "By 2002, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 2006, an important event in biology was"
+  },
+  {
+    "prompt": "By 2006, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 1992, an important event in literature was"
+  },
+  {
+    "prompt": "By 1992, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 2003, an important event in sports was"
+  },
+  {
+    "prompt": "By 2003, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 1999, an important event in physics was"
+  },
+  {
+    "prompt": "By 1999, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 2002, an important event in music was"
+  },
+  {
+    "prompt": "By 2002, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2014, an important event in economics was"
+  },
+  {
+    "prompt": "By 2014, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 1996, an important event in sports was"
+  },
+  {
+    "prompt": "By 1996, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2021, an important event in history was"
+  },
+  {
+    "prompt": "By 2021, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2017, an important event in art was"
+  },
+  {
+    "prompt": "By 2017, the main idea in art had become"
+  },
+  {
+    "prompt": "In 2021, an important event in geography was"
+  },
+  {
+    "prompt": "By 2021, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2010, an important event in music was"
+  },
+  {
+    "prompt": "By 2010, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2002, an important event in art was"
+  },
+  {
+    "prompt": "By 2002, the main idea in art had become"
+  },
+  {
+    "prompt": "In 1999, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 1999, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 2008, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2008, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 1995, an important event in art was"
+  },
+  {
+    "prompt": "By 1995, the main idea in art had become"
+  },
+  {
+    "prompt": "In 1992, an important event in physics was"
+  },
+  {
+    "prompt": "By 1992, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 2004, an important event in history was"
+  },
+  {
+    "prompt": "By 2004, the main idea in history had become"
+  },
+  {
+    "prompt": "In 1990, an important event in literature was"
+  },
+  {
+    "prompt": "By 1990, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 2018, an important event in economics was"
+  },
+  {
+    "prompt": "By 2018, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 2000, an important event in literature was"
+  },
+  {
+    "prompt": "By 2000, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 1999, an important event in geography was"
+  },
+  {
+    "prompt": "By 1999, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2019, an important event in economics was"
+  },
+  {
+    "prompt": "By 2019, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 2022, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2022, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 2023, an important event in art was"
+  },
+  {
+    "prompt": "By 2023, the main idea in art had become"
+  },
+  {
+    "prompt": "In 1992, an important event in sports was"
+  },
+  {
+    "prompt": "By 1992, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 1995, an important event in geography was"
+  },
+  {
+    "prompt": "By 1995, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2023, an important event in literature was"
+  },
+  {
+    "prompt": "By 2023, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 1994, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 1994, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2017, an important event in literature was"
+  },
+  {
+    "prompt": "By 2017, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 2003, an important event in computer science was"
+  },
+  {
+    "prompt": "By 2003, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 2024, an important event in sports was"
+  },
+  {
+    "prompt": "By 2024, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2016, an important event in music was"
+  },
+  {
+    "prompt": "By 2016, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2014, an important event in sports was"
+  },
+  {
+    "prompt": "By 2014, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2004, an important event in literature was"
+  },
+  {
+    "prompt": "By 2004, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 1991, an important event in geography was"
+  },
+  {
+    "prompt": "By 1991, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2001, an important event in computer science was"
+  },
+  {
+    "prompt": "By 2001, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 2022, an important event in sports was"
+  },
+  {
+    "prompt": "By 2022, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 1994, an important event in music was"
+  },
+  {
+    "prompt": "By 1994, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2006, an important event in computer science was"
+  },
+  {
+    "prompt": "By 2006, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 2016, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2016, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 2000, an important event in geography was"
+  },
+  {
+    "prompt": "By 2000, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 1998, an important event in biology was"
+  },
+  {
+    "prompt": "By 1998, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 2011, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 2011, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 1992, an important event in music was"
+  },
+  {
+    "prompt": "By 1992, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2016, an important event in history was"
+  },
+  {
+    "prompt": "By 2016, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2021, an important event in sports was"
+  },
+  {
+    "prompt": "By 2021, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 1999, an important event in literature was"
+  },
+  {
+    "prompt": "By 1999, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 2019, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2019, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 1996, an important event in music was"
+  },
+  {
+    "prompt": "By 1996, the main idea in music had become"
+  },
+  {
+    "prompt": "In 1999, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 1999, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2010, an important event in physics was"
+  },
+  {
+    "prompt": "By 2010, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 2012, an important event in biology was"
+  },
+  {
+    "prompt": "By 2012, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 2021, an important event in physics was"
+  },
+  {
+    "prompt": "By 2021, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 1993, an important event in sports was"
+  },
+  {
+    "prompt": "By 1993, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2019, an important event in sports was"
+  },
+  {
+    "prompt": "By 2019, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2011, an important event in geography was"
+  },
+  {
+    "prompt": "By 2011, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 1997, an important event in geography was"
+  },
+  {
+    "prompt": "By 1997, the main idea in geography had become"
+  },
+  {
+    "prompt": "In 2008, an important event in literature was"
+  },
+  {
+    "prompt": "By 2008, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 1998, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 1998, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 1997, an important event in art was"
+  },
+  {
+    "prompt": "By 1997, the main idea in art had become"
+  },
+  {
+    "prompt": "In 2002, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 2002, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2015, an important event in music was"
+  },
+  {
+    "prompt": "By 2015, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2013, an important event in literature was"
+  },
+  {
+    "prompt": "By 2013, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 2012, an important event in literature was"
+  },
+  {
+    "prompt": "By 2012, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 1994, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 1994, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2006, an important event in mathematics was"
+  },
+  {
+    "prompt": "By 2006, the main idea in mathematics had become"
+  },
+  {
+    "prompt": "In 2003, an important event in biology was"
+  },
+  {
+    "prompt": "By 2003, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 1995, an important event in literature was"
+  },
+  {
+    "prompt": "By 1995, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 2022, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2022, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 2023, an important event in philosophy was"
+  },
+  {
+    "prompt": "By 2023, the main idea in philosophy had become"
+  },
+  {
+    "prompt": "In 1997, an important event in history was"
+  },
+  {
+    "prompt": "By 1997, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2017, an important event in sports was"
+  },
+  {
+    "prompt": "By 2017, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2017, an important event in physics was"
+  },
+  {
+    "prompt": "By 2017, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 1994, an important event in physics was"
+  },
+  {
+    "prompt": "By 1994, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 1999, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 1999, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 1991, an important event in literature was"
+  },
+  {
+    "prompt": "By 1991, the main idea in literature had become"
+  },
+  {
+    "prompt": "In 1997, an important event in economics was"
+  },
+  {
+    "prompt": "By 1997, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 1991, an important event in economics was"
+  },
+  {
+    "prompt": "By 1991, the main idea in economics had become"
+  },
+  {
+    "prompt": "In 2012, an important event in history was"
+  },
+  {
+    "prompt": "By 2012, the main idea in history had become"
+  },
+  {
+    "prompt": "In 2013, an important event in physics was"
+  },
+  {
+    "prompt": "By 2013, the main idea in physics had become"
+  },
+  {
+    "prompt": "In 1999, an important event in biology was"
+  },
+  {
+    "prompt": "By 1999, the main idea in biology had become"
+  },
+  {
+    "prompt": "In 1997, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 1997, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 1990, an important event in computer science was"
+  },
+  {
+    "prompt": "By 1990, the main idea in computer science had become"
+  },
+  {
+    "prompt": "In 1991, an important event in sports was"
+  },
+  {
+    "prompt": "By 1991, the main idea in sports had become"
+  },
+  {
+    "prompt": "In 2001, an important event in music was"
+  },
+  {
+    "prompt": "By 2001, the main idea in music had become"
+  },
+  {
+    "prompt": "In 2012, an important event in chemistry was"
+  },
+  {
+    "prompt": "By 2012, the main idea in chemistry had become"
+  },
+  {
+    "prompt": "In 1991, an important event in biology was"
+  },
+  {
+    "prompt": "By 1991, the main idea in biology had become"
+  },
+  {
+    "prompt": "Summarize the core concept of economics in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of music in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of computer science in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of geography in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of history in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of physics in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of art in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of computer science in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of philosophy in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of history in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of biology in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of art in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of biology in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of history in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of economics in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of geography in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of mathematics in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of physics in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of physics in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of philosophy in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of art in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of chemistry in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of sports in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of computer science in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of economics in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of biology in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of geography in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of philosophy in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of philosophy in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of computer science in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of literature in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of computer science in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of literature in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of music in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of philosophy in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of history in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of geography in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of physics in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of literature in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of chemistry in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of mathematics in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of sports in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of literature in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of music in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of biology in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of mathematics in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of music in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of chemistry in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of physics in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of computer science in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of art in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of physics in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of history in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of philosophy in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of sports in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of geography in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of art in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of chemistry in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of literature in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of economics in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of chemistry in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of economics in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of music in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of chemistry in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of history in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of mathematics in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of mathematics in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of geography in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of chemistry in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of biology in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of literature in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of geography in one sentence:"
+  },
+  {
+    "prompt": "Compare the core concept of history in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of economics in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of biology in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of mathematics in one sentence:"
+  },
+  {
+    "prompt": "Summarize the core concept of sports in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of sports in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of art in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of computer science in one sentence:"
+  },
+  {
+    "prompt": "List the core concept of art in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of music in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of mathematics in one sentence:"
+  },
+  {
+    "prompt": "Explain the core concept of biology in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of music in one sentence:"
+  },
+  {
+    "prompt": "Contrast the core concept of philosophy in one sentence:"
+  },
+  {
+    "prompt": "Outline the core concept of literature in one sentence:"
+  },
+  {
+    "prompt": "Describe the core concept of economics in one sentence:"
+  },
+  {
+    "prompt": "Dave: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Bob: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Eve: Hi Neda, can you summarize the key point?\nNeda:"
+  },
+  {
+    "prompt": "Mallory: Hi Dave, can you summarize the key point?\nDave:"
+  },
+  {
+    "prompt": "Mallory: Hi Neda, can you summarize the key point?\nNeda:"
+  },
+  {
+    "prompt": "Peggy: Hi Eve, can you summarize the key point?\nEve:"
+  },
+  {
+    "prompt": "Omid: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Carol: Hi Alice, can you summarize the key point?\nAlice:"
+  },
+  {
+    "prompt": "Sara: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Mallory: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Omid: Hi Neda, can you summarize the key point?\nNeda:"
+  },
+  {
+    "prompt": "Alice: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Trent: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Carol: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Bob: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Dave: Hi Peggy, can you summarize the key point?\nPeggy:"
+  },
+  {
+    "prompt": "Omid: Hi Dave, can you summarize the key point?\nDave:"
+  },
+  {
+    "prompt": "Dave: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Dave: Hi Trent, can you summarize the key point?\nTrent:"
+  },
+  {
+    "prompt": "Mallory: Hi Omid, can you summarize the key point?\nOmid:"
+  },
+  {
+    "prompt": "Neda: Hi Peggy, can you summarize the key point?\nPeggy:"
+  },
+  {
+    "prompt": "Bob: Hi Omid, can you summarize the key point?\nOmid:"
+  },
+  {
+    "prompt": "Alice: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Omid: Hi Mallory, can you summarize the key point?\nMallory:"
+  },
+  {
+    "prompt": "Peggy: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Eve: Hi Alice, can you summarize the key point?\nAlice:"
+  },
+  {
+    "prompt": "Dave: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Neda: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Reza: Hi Peggy, can you summarize the key point?\nPeggy:"
+  },
+  {
+    "prompt": "Sara: Hi Mallory, can you summarize the key point?\nMallory:"
+  },
+  {
+    "prompt": "Reza: Hi Bob, can you summarize the key point?\nBob:"
+  },
+  {
+    "prompt": "Eve: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Omid: Hi Trent, can you summarize the key point?\nTrent:"
+  },
+  {
+    "prompt": "Reza: Hi Dave, can you summarize the key point?\nDave:"
+  },
+  {
+    "prompt": "Mallory: Hi Eve, can you summarize the key point?\nEve:"
+  },
+  {
+    "prompt": "Trent: Hi Alice, can you summarize the key point?\nAlice:"
+  },
+  {
+    "prompt": "Dave: Hi Alice, can you summarize the key point?\nAlice:"
+  },
+  {
+    "prompt": "Mallory: Hi Peggy, can you summarize the key point?\nPeggy:"
+  },
+  {
+    "prompt": "Neda: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Neda: Hi Dave, can you summarize the key point?\nDave:"
+  },
+  {
+    "prompt": "Eve: Hi Mallory, can you summarize the key point?\nMallory:"
+  },
+  {
+    "prompt": "Sara: Hi Alice, can you summarize the key point?\nAlice:"
+  },
+  {
+    "prompt": "Reza: Hi Neda, can you summarize the key point?\nNeda:"
+  },
+  {
+    "prompt": "Carol: Hi Mallory, can you summarize the key point?\nMallory:"
+  },
+  {
+    "prompt": "Alice: Hi Peggy, can you summarize the key point?\nPeggy:"
+  },
+  {
+    "prompt": "Neda: Hi Alice, can you summarize the key point?\nAlice:"
+  },
+  {
+    "prompt": "Alice: Hi Dave, can you summarize the key point?\nDave:"
+  },
+  {
+    "prompt": "Alice: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Dave: Hi Neda, can you summarize the key point?\nNeda:"
+  },
+  {
+    "prompt": "Mallory: Hi Bob, can you summarize the key point?\nBob:"
+  },
+  {
+    "prompt": "Alice: Hi Mallory, can you summarize the key point?\nMallory:"
+  },
+  {
+    "prompt": "Neda: Hi Trent, can you summarize the key point?\nTrent:"
+  },
+  {
+    "prompt": "Carol: Hi Dave, can you summarize the key point?\nDave:"
+  },
+  {
+    "prompt": "Peggy: Hi Trent, can you summarize the key point?\nTrent:"
+  },
+  {
+    "prompt": "Neda: Hi Mallory, can you summarize the key point?\nMallory:"
+  },
+  {
+    "prompt": "Reza: Hi Trent, can you summarize the key point?\nTrent:"
+  },
+  {
+    "prompt": "Trent: Hi Eve, can you summarize the key point?\nEve:"
+  },
+  {
+    "prompt": "Alice: Hi Omid, can you summarize the key point?\nOmid:"
+  },
+  {
+    "prompt": "Bob: Hi Trent, can you summarize the key point?\nTrent:"
+  },
+  {
+    "prompt": "Carol: Hi Omid, can you summarize the key point?\nOmid:"
+  },
+  {
+    "prompt": "Neda: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Reza: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Bob: Hi Mallory, can you summarize the key point?\nMallory:"
+  },
+  {
+    "prompt": "Carol: Hi Neda, can you summarize the key point?\nNeda:"
+  },
+  {
+    "prompt": "Sara: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Trent: Hi Omid, can you summarize the key point?\nOmid:"
+  },
+  {
+    "prompt": "Omid: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Alice: Hi Eve, can you summarize the key point?\nEve:"
+  },
+  {
+    "prompt": "Mallory: Hi Trent, can you summarize the key point?\nTrent:"
+  },
+  {
+    "prompt": "Alice: Hi Neda, can you summarize the key point?\nNeda:"
+  },
+  {
+    "prompt": "Carol: Hi Peggy, can you summarize the key point?\nPeggy:"
+  },
+  {
+    "prompt": "Mallory: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Sara: Hi Eve, can you summarize the key point?\nEve:"
+  },
+  {
+    "prompt": "Sara: Hi Peggy, can you summarize the key point?\nPeggy:"
+  },
+  {
+    "prompt": "Omid: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Trent: Hi Bob, can you summarize the key point?\nBob:"
+  },
+  {
+    "prompt": "Trent: Hi Mallory, can you summarize the key point?\nMallory:"
+  },
+  {
+    "prompt": "Peggy: Hi Alice, can you summarize the key point?\nAlice:"
+  },
+  {
+    "prompt": "Reza: Hi Alice, can you summarize the key point?\nAlice:"
+  },
+  {
+    "prompt": "Neda: Hi Omid, can you summarize the key point?\nOmid:"
+  },
+  {
+    "prompt": "Reza: Hi Eve, can you summarize the key point?\nEve:"
+  },
+  {
+    "prompt": "Eve: Hi Dave, can you summarize the key point?\nDave:"
+  },
+  {
+    "prompt": "Reza: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Carol: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Mallory: Hi Alice, can you summarize the key point?\nAlice:"
+  },
+  {
+    "prompt": "Omid: Hi Alice, can you summarize the key point?\nAlice:"
+  },
+  {
+    "prompt": "Eve: Hi Omid, can you summarize the key point?\nOmid:"
+  },
+  {
+    "prompt": "Dave: Hi Bob, can you summarize the key point?\nBob:"
+  },
+  {
+    "prompt": "Sara: Hi Trent, can you summarize the key point?\nTrent:"
+  },
+  {
+    "prompt": "Bob: Hi Neda, can you summarize the key point?\nNeda:"
+  },
+  {
+    "prompt": "Omid: Hi Bob, can you summarize the key point?\nBob:"
+  },
+  {
+    "prompt": "Sara: Hi Neda, can you summarize the key point?\nNeda:"
+  },
+  {
+    "prompt": "Sara: Hi Omid, can you summarize the key point?\nOmid:"
+  },
+  {
+    "prompt": "Trent: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Eve: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Eve: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Mallory: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Omid: Hi Peggy, can you summarize the key point?\nPeggy:"
+  },
+  {
+    "prompt": "Sara: Hi Bob, can you summarize the key point?\nBob:"
+  },
+  {
+    "prompt": "Peggy: Hi Bob, can you summarize the key point?\nBob:"
+  },
+  {
+    "prompt": "Trent: Hi Neda, can you summarize the key point?\nNeda:"
+  },
+  {
+    "prompt": "Eve: Hi Trent, can you summarize the key point?\nTrent:"
+  },
+  {
+    "prompt": "Trent: Hi Peggy, can you summarize the key point?\nPeggy:"
+  },
+  {
+    "prompt": "Alice: Hi Bob, can you summarize the key point?\nBob:"
+  },
+  {
+    "prompt": "Bob: Hi Dave, can you summarize the key point?\nDave:"
+  },
+  {
+    "prompt": "Bob: Hi Reza, can you summarize the key point?\nReza:"
+  },
+  {
+    "prompt": "Peggy: Hi Carol, can you summarize the key point?\nCarol:"
+  },
+  {
+    "prompt": "Peggy: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Peggy: Hi Omid, can you summarize the key point?\nOmid:"
+  },
+  {
+    "prompt": "Reza: Hi Mallory, can you summarize the key point?\nMallory:"
+  },
+  {
+    "prompt": "Peggy: Hi Mallory, can you summarize the key point?\nMallory:"
+  },
+  {
+    "prompt": "Trent: Hi Sara, can you summarize the key point?\nSara:"
+  },
+  {
+    "prompt": "Compute 9 + 10 ="
+  },
+  {
+    "prompt": "Compute 9 - 10 ="
+  },
+  {
+    "prompt": "Compute 22 + 3 ="
+  },
+  {
+    "prompt": "Compute 22 - 3 ="
+  },
+  {
+    "prompt": "Compute 13 + 48 ="
+  },
+  {
+    "prompt": "Compute 13 - 48 ="
+  },
+  {
+    "prompt": "Compute 10 + 3 ="
+  },
+  {
+    "prompt": "Compute 10 - 3 ="
+  },
+  {
+    "prompt": "Compute 23 + 40 ="
+  },
+  {
+    "prompt": "Compute 23 - 40 ="
+  },
+  {
+    "prompt": "Compute 14 + 4 ="
+  },
+  {
+    "prompt": "Compute 14 - 4 ="
+  },
+  {
+    "prompt": "Compute 28 + 43 ="
+  },
+  {
+    "prompt": "Compute 28 - 43 ="
+  },
+  {
+    "prompt": "Compute 5 + 46 ="
+  },
+  {
+    "prompt": "Compute 5 - 46 ="
+  },
+  {
+    "prompt": "Compute 21 + 26 ="
+  },
+  {
+    "prompt": "Compute 21 - 26 ="
+  },
+  {
+    "prompt": "Compute 5 + 40 ="
+  },
+  {
+    "prompt": "Compute 5 - 40 ="
+  },
+  {
+    "prompt": "Compute 47 + 12 ="
+  },
+  {
+    "prompt": "Compute 47 - 12 ="
+  },
+  {
+    "prompt": "Compute 24 + 6 ="
+  },
+  {
+    "prompt": "Compute 24 - 6 ="
+  },
+  {
+    "prompt": "Compute 28 + 5 ="
+  },
+  {
+    "prompt": "Compute 28 - 5 ="
+  },
+  {
+    "prompt": "Compute 30 + 24 ="
+  },
+  {
+    "prompt": "Compute 30 - 24 ="
+  },
+  {
+    "prompt": "Compute 40 + 41 ="
+  },
+  {
+    "prompt": "Compute 40 - 41 ="
+  },
+  {
+    "prompt": "Compute 50 + 18 ="
+  },
+  {
+    "prompt": "Compute 50 - 18 ="
+  },
+  {
+    "prompt": "Compute 45 + 21 ="
+  },
+  {
+    "prompt": "Compute 45 - 21 ="
+  },
+  {
+    "prompt": "Compute 38 + 31 ="
+  },
+  {
+    "prompt": "Compute 38 - 31 ="
+  },
+  {
+    "prompt": "Compute 28 + 13 ="
+  },
+  {
+    "prompt": "Compute 28 - 13 ="
+  },
+  {
+    "prompt": "Compute 3 + 31 ="
+  },
+  {
+    "prompt": "Compute 3 - 31 ="
+  },
+  {
+    "prompt": "Compute 18 + 14 ="
+  },
+  {
+    "prompt": "Compute 18 - 14 ="
+  },
+  {
+    "prompt": "Compute 26 + 6 ="
+  },
+  {
+    "prompt": "Compute 26 - 6 ="
+  },
+  {
+    "prompt": "Compute 24 + 8 ="
+  },
+  {
+    "prompt": "Compute 24 - 8 ="
+  },
+  {
+    "prompt": "Compute 9 + 3 ="
+  },
+  {
+    "prompt": "Compute 9 - 3 ="
+  },
+  {
+    "prompt": "Compute 24 + 3 ="
+  },
+  {
+    "prompt": "Compute 24 - 3 ="
+  },
+  {
+    "prompt": "Compute 13 + 27 ="
+  },
+  {
+    "prompt": "Compute 13 - 27 ="
+  },
+  {
+    "prompt": "Compute 41 + 46 ="
+  },
+  {
+    "prompt": "Compute 41 - 46 ="
+  },
+  {
+    "prompt": "Compute 43 + 2 ="
+  },
+  {
+    "prompt": "Compute 43 - 2 ="
+  },
+  {
+    "prompt": "Compute 22 + 31 ="
+  },
+  {
+    "prompt": "Compute 22 - 31 ="
+  },
+  {
+    "prompt": "Compute 37 + 49 ="
+  },
+  {
+    "prompt": "Compute 37 - 49 ="
+  },
+  {
+    "prompt": "Compute 46 + 33 ="
+  },
+  {
+    "prompt": "Compute 46 - 33 ="
+  },
+  {
+    "prompt": "Compute 32 + 7 ="
+  },
+  {
+    "prompt": "Compute 32 - 7 ="
+  },
+  {
+    "prompt": "Compute 5 + 36 ="
+  },
+  {
+    "prompt": "Compute 5 - 36 ="
+  },
+  {
+    "prompt": "Compute 27 + 18 ="
+  },
+  {
+    "prompt": "Compute 27 - 18 ="
+  },
+  {
+    "prompt": "Compute 3 + 43 ="
+  },
+  {
+    "prompt": "Compute 3 - 43 ="
+  },
+  {
+    "prompt": "Compute 35 + 8 ="
+  },
+  {
+    "prompt": "Compute 35 - 8 ="
+  },
+  {
+    "prompt": "Compute 7 + 23 ="
+  },
+  {
+    "prompt": "Compute 7 - 23 ="
+  },
+  {
+    "prompt": "Compute 32 + 4 ="
+  },
+  {
+    "prompt": "Compute 32 - 4 ="
+  },
+  {
+    "prompt": "Compute 11 + 35 ="
+  },
+  {
+    "prompt": "Compute 11 - 35 ="
+  },
+  {
+    "prompt": "Compute 42 + 20 ="
+  },
+  {
+    "prompt": "Compute 42 - 20 ="
+  },
+  {
+    "prompt": "Compute 4 + 2 ="
+  },
+  {
+    "prompt": "Compute 4 - 2 ="
+  },
+  {
+    "prompt": "Compute 26 + 23 ="
+  },
+  {
+    "prompt": "Compute 26 - 23 ="
+  },
+  {
+    "prompt": "Compute 12 + 37 ="
+  },
+  {
+    "prompt": "Compute 12 - 37 ="
+  },
+  {
+    "prompt": "Compute 46 + 11 ="
+  },
+  {
+    "prompt": "Compute 46 - 11 ="
+  },
+  {
+    "prompt": "Compute 12 + 13 ="
+  },
+  {
+    "prompt": "Compute 12 - 13 ="
+  },
+  {
+    "prompt": "Compute 12 + 42 ="
+  },
+  {
+    "prompt": "Compute 12 - 42 ="
+  },
+  {
+    "prompt": "Compute 45 + 17 ="
+  },
+  {
+    "prompt": "Compute 45 - 17 ="
+  },
+  {
+    "prompt": "Compute 41 + 23 ="
+  },
+  {
+    "prompt": "Compute 41 - 23 ="
+  },
+  {
+    "prompt": "Compute 3 + 32 ="
+  },
+  {
+    "prompt": "Compute 3 - 32 ="
+  },
+  {
+    "prompt": "Compute 42 + 45 ="
+  },
+  {
+    "prompt": "Compute 42 - 45 ="
+  },
+  {
+    "prompt": "Compute 27 + 4 ="
+  },
+  {
+    "prompt": "Compute 27 - 4 ="
+  },
+  {
+    "prompt": "Compute 16 + 17 ="
+  },
+  {
+    "prompt": "Compute 16 - 17 ="
+  },
+  {
+    "prompt": "Compute 23 + 12 ="
+  },
+  {
+    "prompt": "Compute 23 - 12 ="
+  },
+  {
+    "prompt": "Compute 17 + 24 ="
+  },
+  {
+    "prompt": "Compute 17 - 24 ="
+  },
+  {
+    "prompt": "Compute 16 + 12 ="
+  },
+  {
+    "prompt": "Compute 16 - 12 ="
+  },
+  {
+    "prompt": "Compute 28 + 31 ="
+  },
+  {
+    "prompt": "Compute 28 - 31 ="
+  },
+  {
+    "prompt": "Compute 25 + 38 ="
+  },
+  {
+    "prompt": "Compute 25 - 38 ="
+  },
+  {
+    "prompt": "Compute 10 + 26 ="
+  },
+  {
+    "prompt": "Compute 10 - 26 ="
+  },
+  {
+    "prompt": "Compute 38 + 2 ="
+  },
+  {
+    "prompt": "Compute 38 - 2 ="
+  },
+  {
+    "prompt": "Compute 12 + 39 ="
+  },
+  {
+    "prompt": "Compute 12 - 39 ="
+  },
+  {
+    "prompt": "Compute 2 + 45 ="
+  },
+  {
+    "prompt": "Compute 2 - 45 ="
+  },
+  {
+    "prompt": "Compute 26 + 47 ="
+  },
+  {
+    "prompt": "Compute 26 - 47 ="
+  },
+  {
+    "prompt": "Compute 13 + 11 ="
+  },
+  {
+    "prompt": "Compute 13 - 11 ="
+  },
+  {
+    "prompt": "Compute 3 + 3 ="
+  },
+  {
+    "prompt": "Compute 3 - 3 ="
+  },
+  {
+    "prompt": "Compute 22 + 34 ="
+  },
+  {
+    "prompt": "Compute 22 - 34 ="
+  },
+  {
+    "prompt": "Compute 2 + 4 ="
+  },
+  {
+    "prompt": "Compute 2 - 4 ="
+  },
+  {
+    "prompt": "Compute 5 + 9 ="
+  },
+  {
+    "prompt": "Compute 5 - 9 ="
+  },
+  {
+    "prompt": "Compute 38 + 41 ="
+  },
+  {
+    "prompt": "Compute 38 - 41 ="
+  },
+  {
+    "prompt": "Compute 11 + 11 ="
+  },
+  {
+    "prompt": "Compute 11 - 11 ="
+  },
+  {
+    "prompt": "Compute 45 + 26 ="
+  },
+  {
+    "prompt": "Compute 45 - 26 ="
+  },
+  {
+    "prompt": "Compute 3 + 28 ="
+  },
+  {
+    "prompt": "Compute 3 - 28 ="
+  },
+  {
+    "prompt": "Compute 29 + 38 ="
+  },
+  {
+    "prompt": "Compute 29 - 38 ="
+  },
+  {
+    "prompt": "Compute 45 + 23 ="
+  },
+  {
+    "prompt": "Compute 45 - 23 ="
+  },
+  {
+    "prompt": "Compute 47 + 17 ="
+  },
+  {
+    "prompt": "Compute 47 - 17 ="
+  },
+  {
+    "prompt": "Compute 10 + 25 ="
+  },
+  {
+    "prompt": "Compute 10 - 25 ="
+  },
+  {
+    "prompt": "Compute 34 + 15 ="
+  },
+  {
+    "prompt": "Compute 34 - 15 ="
+  },
+  {
+    "prompt": "Compute 36 + 27 ="
+  },
+  {
+    "prompt": "Compute 36 - 27 ="
+  },
+  {
+    "prompt": "Compute 6 + 10 ="
+  },
+  {
+    "prompt": "Compute 6 - 10 ="
+  },
+  {
+    "prompt": "Compute 28 + 38 ="
+  },
+  {
+    "prompt": "Compute 28 - 38 ="
+  },
+  {
+    "prompt": "Compute 44 + 24 ="
+  },
+  {
+    "prompt": "Compute 44 - 24 ="
+  },
+  {
+    "prompt": "Compute 8 + 29 ="
+  },
+  {
+    "prompt": "Compute 8 - 29 ="
+  },
+  {
+    "prompt": "Compute 29 + 17 ="
+  },
+  {
+    "prompt": "Compute 29 - 17 ="
+  },
+  {
+    "prompt": "Compute 32 + 26 ="
+  },
+  {
+    "prompt": "Compute 32 - 26 ="
+  },
+  {
+    "prompt": "Compute 16 + 27 ="
+  },
+  {
+    "prompt": "Compute 16 - 27 ="
+  },
+  {
+    "prompt": "Compute 17 + 43 ="
+  },
+  {
+    "prompt": "Compute 17 - 43 ="
+  },
+  {
+    "prompt": "Compute 32 + 27 ="
+  },
+  {
+    "prompt": "Compute 32 - 27 ="
+  },
+  {
+    "prompt": "Compute 39 + 6 ="
+  },
+  {
+    "prompt": "Compute 39 - 6 ="
+  },
+  {
+    "prompt": "Compute 18 + 19 ="
+  },
+  {
+    "prompt": "Compute 18 - 19 ="
+  },
+  {
+    "prompt": "Compute 35 + 25 ="
+  },
+  {
+    "prompt": "Compute 35 - 25 ="
+  },
+  {
+    "prompt": "Compute 36 + 3 ="
+  },
+  {
+    "prompt": "Compute 36 - 3 ="
+  },
+  {
+    "prompt": "Compute 32 + 17 ="
+  },
+  {
+    "prompt": "Compute 32 - 17 ="
+  },
+  {
+    "prompt": "Compute 19 + 4 ="
+  },
+  {
+    "prompt": "Compute 19 - 4 ="
+  },
+  {
+    "prompt": "Compute 41 + 22 ="
+  },
+  {
+    "prompt": "Compute 41 - 22 ="
+  },
+  {
+    "prompt": "Compute 27 + 42 ="
+  },
+  {
+    "prompt": "Compute 27 - 42 ="
+  },
+  {
+    "prompt": "Compute 8 + 36 ="
+  },
+  {
+    "prompt": "Compute 8 - 36 ="
+  },
+  {
+    "prompt": "Compute 5 + 11 ="
+  },
+  {
+    "prompt": "Compute 5 - 11 ="
+  },
+  {
+    "prompt": "Compute 47 + 27 ="
+  },
+  {
+    "prompt": "Compute 47 - 27 ="
+  },
+  {
+    "prompt": "Compute 48 + 27 ="
+  },
+  {
+    "prompt": "Compute 48 - 27 ="
+  },
+  {
+    "prompt": "Compute 29 + 8 ="
+  },
+  {
+    "prompt": "Compute 29 - 8 ="
+  },
+  {
+    "prompt": "Compute 47 + 31 ="
+  },
+  {
+    "prompt": "Compute 47 - 31 ="
+  },
+  {
+    "prompt": "Compute 40 + 31 ="
+  },
+  {
+    "prompt": "Compute 40 - 31 ="
+  },
+  {
+    "prompt": "Compute 12 + 12 ="
+  },
+  {
+    "prompt": "Compute 12 - 12 ="
+  },
+  {
+    "prompt": "Compute 23 + 32 ="
+  },
+  {
+    "prompt": "Compute 23 - 32 ="
+  },
+  {
+    "prompt": "Compute 28 + 12 ="
+  },
+  {
+    "prompt": "Compute 28 - 12 ="
+  },
+  {
+    "prompt": "Compute 39 + 20 ="
+  },
+  {
+    "prompt": "Compute 39 - 20 ="
+  },
+  {
+    "prompt": "Compute 50 + 34 ="
+  },
+  {
+    "prompt": "Compute 50 - 34 ="
+  },
+  {
+    "prompt": "Compute 9 + 25 ="
+  },
+  {
+    "prompt": "Compute 9 - 25 ="
+  },
+  {
+    "prompt": "Compute 24 + 11 ="
+  },
+  {
+    "prompt": "Compute 24 - 11 ="
+  },
+  {
+    "prompt": "Compute 42 + 24 ="
+  },
+  {
+    "prompt": "Compute 42 - 24 ="
+  },
+  {
+    "prompt": "Compute 32 + 42 ="
+  },
+  {
+    "prompt": "Compute 32 - 42 ="
+  },
+  {
+    "prompt": "Compute 35 + 50 ="
+  },
+  {
+    "prompt": "Compute 35 - 50 ="
+  },
+  {
+    "prompt": "Compute 5 + 14 ="
+  },
+  {
+    "prompt": "Compute 5 - 14 ="
+  },
+  {
+    "prompt": "Compute 18 + 13 ="
+  },
+  {
+    "prompt": "Compute 18 - 13 ="
+  },
+  {
+    "prompt": "Compute 48 + 39 ="
+  },
+  {
+    "prompt": "Compute 48 - 39 ="
+  },
+  {
+    "prompt": "Compute 22 + 20 ="
+  },
+  {
+    "prompt": "Compute 22 - 20 ="
+  },
+  {
+    "prompt": "Compute 26 + 42 ="
+  },
+  {
+    "prompt": "Compute 26 - 42 ="
+  },
+  {
+    "prompt": "Compute 4 + 20 ="
+  },
+  {
+    "prompt": "Compute 4 - 20 ="
+  },
+  {
+    "prompt": "Compute 37 + 29 ="
+  },
+  {
+    "prompt": "Compute 37 - 29 ="
+  },
+  {
+    "prompt": "Compute 4 + 45 ="
+  },
+  {
+    "prompt": "Compute 4 - 45 ="
+  },
+  {
+    "prompt": "Compute 28 + 19 ="
+  },
+  {
+    "prompt": "Compute 28 - 19 ="
+  },
+  {
+    "prompt": "Compute 26 + 48 ="
+  },
+  {
+    "prompt": "Compute 26 - 48 ="
+  },
+  {
+    "prompt": "Compute 15 + 24 ="
+  },
+  {
+    "prompt": "Compute 15 - 24 ="
+  },
+  {
+    "prompt": "Compute 10 + 10 ="
+  },
+  {
+    "prompt": "Compute 10 - 10 ="
+  },
+  {
+    "prompt": "Compute 9 + 41 ="
+  },
+  {
+    "prompt": "Compute 9 - 41 ="
+  },
+  {
+    "prompt": "Compute 24 + 12 ="
+  },
+  {
+    "prompt": "Compute 24 - 12 ="
+  },
+  {
+    "prompt": "Compute 3 + 29 ="
+  },
+  {
+    "prompt": "Compute 3 - 29 ="
+  },
+  {
+    "prompt": "Compute 38 + 27 ="
+  },
+  {
+    "prompt": "Compute 38 - 27 ="
+  },
+  {
+    "prompt": "Compute 31 + 6 ="
+  },
+  {
+    "prompt": "Compute 31 - 6 ="
+  },
+  {
+    "prompt": "Compute 43 + 47 ="
+  },
+  {
+    "prompt": "Compute 43 - 47 ="
+  },
+  {
+    "prompt": "Compute 47 + 45 ="
+  },
+  {
+    "prompt": "Compute 47 - 45 ="
+  },
+  {
+    "prompt": "Compute 6 + 29 ="
+  },
+  {
+    "prompt": "Compute 6 - 29 ="
+  },
+  {
+    "prompt": "Compute 36 + 48 ="
+  },
+  {
+    "prompt": "Compute 36 - 48 ="
+  },
+  {
+    "prompt": "Compute 37 + 10 ="
+  },
+  {
+    "prompt": "Compute 37 - 10 ="
+  },
+  {
+    "prompt": "Compute 12 + 11 ="
+  },
+  {
+    "prompt": "Compute 12 - 11 ="
+  },
+  {
+    "prompt": "Compute 15 + 12 ="
+  },
+  {
+    "prompt": "Compute 15 - 12 ="
+  },
+  {
+    "prompt": "Compute 16 + 3 ="
+  },
+  {
+    "prompt": "Compute 16 - 3 ="
+  },
+  {
+    "prompt": "Compute 35 + 10 ="
+  },
+  {
+    "prompt": "Compute 35 - 10 ="
+  },
+  {
+    "prompt": "Compute 33 + 24 ="
+  },
+  {
+    "prompt": "Compute 33 - 24 ="
+  },
+  {
+    "prompt": "Compute 41 + 49 ="
+  },
+  {
+    "prompt": "Compute 41 - 49 ="
+  },
+  {
+    "prompt": "Compute 20 + 47 ="
+  },
+  {
+    "prompt": "Compute 20 - 47 ="
+  },
+  {
+    "prompt": "Compute 23 + 45 ="
+  },
+  {
+    "prompt": "Compute 23 - 45 ="
+  },
+  {
+    "prompt": "Compute 9 + 28 ="
+  },
+  {
+    "prompt": "Compute 9 - 28 ="
+  },
+  {
+    "prompt": "Compute 18 + 12 ="
+  },
+  {
+    "prompt": "Compute 18 - 12 ="
+  },
+  {
+    "prompt": "Compute 23 + 42 ="
+  },
+  {
+    "prompt": "Compute 23 - 42 ="
+  },
+  {
+    "prompt": "Compute 34 + 23 ="
+  },
+  {
+    "prompt": "Compute 34 - 23 ="
+  },
+  {
+    "prompt": "Compute 36 + 46 ="
+  },
+  {
+    "prompt": "Compute 36 - 46 ="
+  },
+  {
+    "prompt": "Compute 11 + 26 ="
+  },
+  {
+    "prompt": "Compute 11 - 26 ="
+  },
+  {
+    "prompt": "Compute 49 + 49 ="
+  },
+  {
+    "prompt": "Compute 49 - 49 ="
+  },
+  {
+    "prompt": "Compute 37 + 21 ="
+  },
+  {
+    "prompt": "Compute 37 - 21 ="
+  },
+  {
+    "prompt": "Compute 17 + 26 ="
+  },
+  {
+    "prompt": "Compute 17 - 26 ="
+  },
+  {
+    "prompt": "Compute 24 + 26 ="
+  },
+  {
+    "prompt": "Compute 24 - 26 ="
+  },
+  {
+    "prompt": "Compute 32 + 34 ="
+  },
+  {
+    "prompt": "Compute 32 - 34 ="
+  },
+  {
+    "prompt": "Compute 21 + 28 ="
+  },
+  {
+    "prompt": "Compute 21 - 28 ="
+  },
+  {
+    "prompt": "Compute 28 + 8 ="
+  },
+  {
+    "prompt": "Compute 28 - 8 ="
+  },
+  {
+    "prompt": "Compute 45 + 11 ="
+  },
+  {
+    "prompt": "Compute 45 - 11 ="
+  },
+  {
+    "prompt": "Compute 11 + 2 ="
+  },
+  {
+    "prompt": "Compute 11 - 2 ="
+  },
+  {
+    "prompt": "Compute 39 + 40 ="
+  },
+  {
+    "prompt": "Compute 39 - 40 ="
+  },
+  {
+    "prompt": "Compute 42 + 47 ="
+  },
+  {
+    "prompt": "Compute 42 - 47 ="
+  },
+  {
+    "prompt": "Compute 46 + 43 ="
+  },
+  {
+    "prompt": "Compute 46 - 43 ="
+  },
+  {
+    "prompt": "Compute 46 + 15 ="
+  },
+  {
+    "prompt": "Compute 46 - 15 ="
+  },
+  {
+    "prompt": "Compute 40 + 43 ="
+  },
+  {
+    "prompt": "Compute 40 - 43 ="
+  },
+  {
+    "prompt": "Compute 40 + 34 ="
+  },
+  {
+    "prompt": "Compute 40 - 34 ="
+  },
+  {
+    "prompt": "Compute 9 + 19 ="
+  },
+  {
+    "prompt": "Compute 9 - 19 ="
+  },
+  {
+    "prompt": "Compute 46 + 48 ="
+  },
+  {
+    "prompt": "Compute 46 - 48 ="
+  },
+  {
+    "prompt": "Compute 41 + 12 ="
+  },
+  {
+    "prompt": "Compute 41 - 12 ="
+  },
+  {
+    "prompt": "Compute 26 + 7 ="
+  },
+  {
+    "prompt": "Compute 26 - 7 ="
+  },
+  {
+    "prompt": "Compute 48 + 32 ="
+  },
+  {
+    "prompt": "Compute 48 - 32 ="
+  },
+  {
+    "prompt": "Compute 22 + 8 ="
+  },
+  {
+    "prompt": "Compute 22 - 8 ="
+  },
+  {
+    "prompt": "Compute 45 + 30 ="
+  },
+  {
+    "prompt": "Compute 45 - 30 ="
+  },
+  {
+    "prompt": "Compute 25 + 39 ="
+  },
+  {
+    "prompt": "Compute 25 - 39 ="
+  },
+  {
+    "prompt": "Compute 46 + 18 ="
+  },
+  {
+    "prompt": "Compute 46 - 18 ="
+  },
+  {
+    "prompt": "Compute 44 + 33 ="
+  },
+  {
+    "prompt": "Compute 44 - 33 ="
+  },
+  {
+    "prompt": "Compute 37 + 37 ="
+  },
+  {
+    "prompt": "Compute 37 - 37 ="
+  },
+  {
+    "prompt": "Compute 6 + 34 ="
+  },
+  {
+    "prompt": "Compute 6 - 34 ="
+  },
+  {
+    "prompt": "Compute 12 + 3 ="
+  },
+  {
+    "prompt": "Compute 12 - 3 ="
+  },
+  {
+    "prompt": "Compute 43 + 12 ="
+  },
+  {
+    "prompt": "Compute 43 - 12 ="
+  },
+  {
+    "prompt": "Compute 35 + 28 ="
+  },
+  {
+    "prompt": "Compute 35 - 28 ="
+  },
+  {
+    "prompt": "Compute 40 + 44 ="
+  },
+  {
+    "prompt": "Compute 40 - 44 ="
+  },
+  {
+    "prompt": "Compute 15 + 30 ="
+  },
+  {
+    "prompt": "Compute 15 - 30 ="
+  },
+  {
+    "prompt": "Compute 3 + 39 ="
+  },
+  {
+    "prompt": "Compute 3 - 39 ="
+  },
+  {
+    "prompt": "Compute 12 + 30 ="
+  },
+  {
+    "prompt": "Compute 12 - 30 ="
+  },
+  {
+    "prompt": "Compute 38 + 5 ="
+  },
+  {
+    "prompt": "Compute 38 - 5 ="
+  },
+  {
+    "prompt": "Compute 43 + 39 ="
+  },
+  {
+    "prompt": "Compute 43 - 39 ="
+  },
+  {
+    "prompt": "Compute 27 + 23 ="
+  },
+  {
+    "prompt": "Compute 27 - 23 ="
+  },
+  {
+    "prompt": "Compute 16 + 34 ="
+  },
+  {
+    "prompt": "Compute 16 - 34 ="
+  },
+  {
+    "prompt": "Compute 31 + 4 ="
+  },
+  {
+    "prompt": "Compute 31 - 4 ="
+  },
+  {
+    "prompt": "Compute 32 + 41 ="
+  },
+  {
+    "prompt": "Compute 32 - 41 ="
+  },
+  {
+    "prompt": "Compute 8 + 19 ="
+  },
+  {
+    "prompt": "Compute 8 - 19 ="
+  },
+  {
+    "prompt": "Compute 34 + 33 ="
+  },
+  {
+    "prompt": "Compute 34 - 33 ="
+  },
+  {
+    "prompt": "Compute 37 + 43 ="
+  },
+  {
+    "prompt": "Compute 37 - 43 ="
+  },
+  {
+    "prompt": "Compute 27 + 32 ="
+  },
+  {
+    "prompt": "Compute 27 - 32 ="
+  },
+  {
+    "prompt": "Compute 16 + 36 ="
+  },
+  {
+    "prompt": "Compute 16 - 36 ="
+  },
+  {
+    "prompt": "Compute 25 + 12 ="
+  },
+  {
+    "prompt": "Compute 25 - 12 ="
+  },
+  {
+    "prompt": "Compute 21 + 40 ="
+  },
+  {
+    "prompt": "Compute 21 - 40 ="
+  },
+  {
+    "prompt": "Compute 11 + 31 ="
+  },
+  {
+    "prompt": "Compute 11 - 31 ="
+  },
+  {
+    "prompt": "Compute 6 + 6 ="
+  },
+  {
+    "prompt": "Compute 6 - 6 ="
+  },
+  {
+    "prompt": "Compute 38 + 28 ="
+  },
+  {
+    "prompt": "Compute 38 - 28 ="
+  },
+  {
+    "prompt": "Compute 37 + 7 ="
+  },
+  {
+    "prompt": "Compute 37 - 7 ="
+  },
+  {
+    "prompt": "Compute 18 + 32 ="
+  },
+  {
+    "prompt": "Compute 18 - 32 ="
+  },
+  {
+    "prompt": "Compute 16 + 9 ="
+  },
+  {
+    "prompt": "Compute 16 - 9 ="
+  },
+  {
+    "prompt": "Compute 20 + 11 ="
+  },
+  {
+    "prompt": "Compute 20 - 11 ="
+  },
+  {
+    "prompt": "Compute 25 + 8 ="
+  },
+  {
+    "prompt": "Compute 25 - 8 ="
+  },
+  {
+    "prompt": "Compute 10 + 44 ="
+  },
+  {
+    "prompt": "Compute 10 - 44 ="
+  },
+  {
+    "prompt": "Compute 5 + 44 ="
+  },
+  {
+    "prompt": "Compute 5 - 44 ="
+  },
+  {
+    "prompt": "Compute 10 + 39 ="
+  },
+  {
+    "prompt": "Compute 10 - 39 ="
+  },
+  {
+    "prompt": "Compute 37 + 14 ="
+  },
+  {
+    "prompt": "Compute 37 - 14 ="
+  },
+  {
+    "prompt": "Compute 27 + 37 ="
+  },
+  {
+    "prompt": "Compute 27 - 37 ="
+  },
+  {
+    "prompt": "Compute 46 + 50 ="
+  },
+  {
+    "prompt": "Compute 46 - 50 ="
+  },
+  {
+    "prompt": "Compute 40 + 33 ="
+  },
+  {
+    "prompt": "Compute 40 - 33 ="
+  },
+  {
+    "prompt": "Compute 47 + 46 ="
+  },
+  {
+    "prompt": "Compute 47 - 46 ="
+  },
+  {
+    "prompt": "Compute 8 + 32 ="
+  },
+  {
+    "prompt": "Compute 8 - 32 ="
+  },
+  {
+    "prompt": "Compute 37 + 24 ="
+  },
+  {
+    "prompt": "Compute 37 - 24 ="
+  },
+  {
+    "prompt": "Compute 23 + 8 ="
+  },
+  {
+    "prompt": "Compute 23 - 8 ="
+  },
+  {
+    "prompt": "Compute 45 + 2 ="
+  },
+  {
+    "prompt": "Compute 45 - 2 ="
+  },
+  {
+    "prompt": "Compute 17 + 16 ="
+  },
+  {
+    "prompt": "Compute 17 - 16 ="
+  },
+  {
+    "prompt": "Compute 33 + 21 ="
+  },
+  {
+    "prompt": "Compute 33 - 21 ="
+  },
+  {
+    "prompt": "Compute 19 + 16 ="
+  },
+  {
+    "prompt": "Compute 19 - 16 ="
+  },
+  {
+    "prompt": "Compute 2 + 33 ="
+  },
+  {
+    "prompt": "Compute 2 - 33 ="
+  },
+  {
+    "prompt": "Compute 24 + 34 ="
+  },
+  {
+    "prompt": "Compute 24 - 34 ="
+  },
+  {
+    "prompt": "Compute 23 + 7 ="
+  },
+  {
+    "prompt": "Compute 23 - 7 ="
+  },
+  {
+    "prompt": "Compute 6 + 21 ="
+  },
+  {
+    "prompt": "Compute 6 - 21 ="
+  },
+  {
+    "prompt": "Compute 38 + 29 ="
+  },
+  {
+    "prompt": "Compute 38 - 29 ="
+  },
+  {
+    "prompt": "Compute 16 + 49 ="
+  },
+  {
+    "prompt": "Compute 16 - 49 ="
+  },
+  {
+    "prompt": "Compute 25 + 26 ="
+  },
+  {
+    "prompt": "Compute 25 - 26 ="
+  },
+  {
+    "prompt": "Compute 50 + 11 ="
+  },
+  {
+    "prompt": "Compute 50 - 11 ="
+  },
+  {
+    "prompt": "Compute 16 + 20 ="
+  },
+  {
+    "prompt": "Compute 16 - 20 ="
+  },
+  {
+    "prompt": "Compute 14 + 49 ="
+  },
+  {
+    "prompt": "Compute 14 - 49 ="
+  },
+  {
+    "prompt": "Compute 32 + 44 ="
+  },
+  {
+    "prompt": "Compute 32 - 44 ="
+  },
+  {
+    "prompt": "Compute 24 + 20 ="
+  },
+  {
+    "prompt": "Compute 24 - 20 ="
+  },
+  {
+    "prompt": "Compute 26 + 41 ="
+  },
+  {
+    "prompt": "Compute 26 - 41 ="
+  },
+  {
+    "prompt": "Compute 10 + 9 ="
+  },
+  {
+    "prompt": "Compute 10 - 9 ="
+  },
+  {
+    "prompt": "Compute 27 + 24 ="
+  },
+  {
+    "prompt": "Compute 27 - 24 ="
+  },
+  {
+    "prompt": "Compute 34 + 32 ="
+  },
+  {
+    "prompt": "Compute 34 - 32 ="
+  },
+  {
+    "prompt": "Compute 16 + 43 ="
+  },
+  {
+    "prompt": "Compute 16 - 43 ="
+  },
+  {
+    "prompt": "Compute 47 + 25 ="
+  },
+  {
+    "prompt": "Compute 47 - 25 ="
+  },
+  {
+    "prompt": "In Python, write a one-liner to reduce a list:"
+  },
+  {
+    "prompt": "In Python, write a one-liner to max a list:"
+  },
+  {
+    "prompt": "In Python, write a one-liner to min a list:"
+  },
+  {
+    "prompt": "In Python, write a one-liner to average a list:"
+  },
+  {
+    "prompt": "In Python, write a one-liner to search a list:"
+  },
+  {
+    "prompt": "In Python, write a one-liner to count a list:"
+  },
+  {
+    "prompt": "In Python, write a one-liner to reverse a list:"
+  },
+  {
+    "prompt": "In Python, write a one-liner to sum a list:"
+  },
+  {
+    "prompt": "In Python, write a one-liner to filter a list:"
+  },
+  {
+    "prompt": "In Python, write a one-liner to map a list:"
+  },
+  {
+    "prompt": "In Python, write a one-liner to sort a list:"
+  }
+]
